@@ -11,6 +11,7 @@ AI Agent 记忆策略层技术洞察报告仓库。
 | [Mem0商业版Supersede冲突解决机制调研_2026-08.md](./Mem0商业版Supersede冲突解决机制调研_2026-08.md) | Mem0 Platform v3 Dream Supersede 的公开文档、API 契约和读写语义调研 |
 | [Dream-Supersede记忆冲突解决与召回设计_2026-08.md](./Dream-Supersede记忆冲突解决与召回设计_2026-08.md) | 基于 Supersede 思路设计可审计、可撤销的新旧记忆冲突解决和双视图召回系统 |
 | [Mem0商业版Supersede实现全流程与实验取证_2026-08.md](./Mem0商业版Supersede实现全流程与实验取证_2026-08.md) | 结合 Mem0 OSS 与多组 Platform 黑盒实验，推断关联召回、生命周期关系、数据模型和一致性边界 |
+| [ADD-only记忆Supersede双向关联落地方案_2026-08.md](./ADD-only记忆Supersede双向关联落地方案_2026-08.md) | 面向当前 ADD-only 管线的可实施方案：权威关系表、双向投影、双路召回、事务一致性、撤销、迁移与灰度 |
 
 ## 关注方向
 

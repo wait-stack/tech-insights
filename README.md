@@ -16,6 +16,7 @@ AI Agent 记忆策略层技术洞察报告仓库。
 | [记忆关系感知召回方案_v1_2026-08.md](./记忆关系感知召回方案_v1_2026-08.md) | 根据查询意图折叠或展开新旧记忆关系，覆盖默认、最新、指定时间、变化历史和原始证据召回 |
 | [LongMemEval_Assistant题型意图分类与典型样例_2026-08.md](./LongMemEval_Assistant题型意图分类与典型样例_2026-08.md) | 统计 `single-session-assistant` 题型的 10 类原始任务意图，含角色标注偏差、英文证据对话、中文翻译和记忆设计启示 |
 | [LongMemEval_MultiSession关联拓扑分类与多跳标准_2026-08.md](./LongMemEval_MultiSession关联拓扑分类与多跳标准_2026-08.md) | 对 133 道 `multi-session` 题逐题编码，区分同话题直接关联、同锚点组合、严格桥接多跳与信息不足对照题 |
+| [LongMemEval_TemporalReasoning题型分类与时间推理标准_2026-08.md](./LongMemEval_TemporalReasoning题型分类与时间推理标准_2026-08.md) | 对 133 道 `temporal-reasoning` 题逐题编码，覆盖查询时点回溯、事件间隔、持续时间、排序、时间反查、窗口聚合与信息不足 |
 
 ## 关注方向
 

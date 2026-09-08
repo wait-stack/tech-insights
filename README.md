@@ -6,6 +6,7 @@ AI Agent 记忆策略层技术洞察报告仓库。
 
 | 文件 | 内容 |
 |------|------|
+| [Pi-Agent与DeepSeek-Harness技术洞察_2026-09.md](./Pi-Agent与DeepSeek-Harness技术洞察_2026-09.md) | 固定源码对比 Pi 与 DSH 的运行循环、插件、会话和模型层复用，补充 OpenCode / Claude Code 产品对照，给出双宿主记忆适配与验证方案 |
 | [DeepSeek-Harness场景化记忆接入洞察与实施方案_2026-09.md](./DeepSeek-Harness场景化记忆接入洞察与实施方案_2026-09.md) | 基于固定源码核实 Harness/DSH 原理、Mem0 原生工具插件与 MemOS/Mem9 接入；给出现有记忆系统的场景、接口、异步一致性、四周实施与评测方案，并校正早期接口示例 |
 | [Agent记忆模块全景与最新进展_2026-09.md](./Agent记忆模块全景与最新进展_2026-09.md) | 截至2026年9月的Agent记忆全景调研，覆盖最新论文、开源项目、Benchmark、云厂商与商业产品，并给出可落地的分层架构和实施路线 |
 | [超长轮次Agent记忆最新技术洞察报告_2026-08.md](./超长轮次Agent记忆最新技术洞察报告_2026-08.md) | 2026年7-8月最新论文+产品动态，覆盖15篇arXiv论文、Mem0/Letta/Graphiti/Cognee开源项目更新、六大技术趋势分析 |
